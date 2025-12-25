@@ -1,29 +1,29 @@
-Hi, I’m Suhani.
+## Suhani Dwivedi
 
-I’m a B.Tech CSE (3rd year) student.  
-Currently learning frontend development and improving problem-solving with Java.
-
----
-
-### What I’m focusing on right now
-- Building a stronger base in HTML, CSS, JavaScript and React  
-- Practicing DSA in Java consistently  
-- Exploring AI concepts alongside coursework  
+B.Tech CSE (3rd year)  
+Frontend development • Java • DSA  
 
 ---
 
-### Skills
+**Currently**
+- Learning React by building small UI components  
+- Practicing DSA in Java (daily consistency > speed)  
+- Exploring AI concepts through coursework  
+
+---
+
+**Skills**
 - Java, JavaScript, Python  
 - HTML, CSS, React  
 - Git, GitHub, VS Code  
-- Basic ML, Java Swing  
+- Java Swing, basic ML  
 
 ---
 
-### GitHub activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=autumnByte&show_icons=true&hide_title=true)
+**Activity**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=autumnByte&show_icons=true&hide_title=true&hide_border=true)
 
 ---
 
-### Contact
-Email: suhanidwivedi2k5@gmail.com
+**Reach me**
+suhanidwivedi2k5@gmail.com
