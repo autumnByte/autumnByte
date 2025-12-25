@@ -1,4 +1,4 @@
-## Suhani Dwivedi
+## About me
 
 B.Tech CSE (3rd year)  
 Frontend development • Java • DSA  
