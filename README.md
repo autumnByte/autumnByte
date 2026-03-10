@@ -1,7 +1,7 @@
 ## About me
 
 B.Tech CSE (3rd year)  
-Frontend development • Java • DSA  
+FullStack Development • Java • DSA • AI/ML
 
 ---
 
