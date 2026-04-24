@@ -16,7 +16,7 @@
 class SuhaniDwivedi {
     String education = "B.Tech CSE (3rd Year)";
     
-    String focus = "DSA + Java Backend Development";
+    String focus = "DSA + Full Stack Development";
 
     String[] currentWork = {
         "Solving DSA daily (consistency > speed)",
