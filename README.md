@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About 
 
 ```java
 class SuhaniDwivedi {
@@ -63,6 +63,6 @@ class SuhaniDwivedi {
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 <p align="center"> <a href="mailto:suhanidwivedi2k5@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/suhani-dwivedi"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/autumnByte"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/> </a> </p>
 <p align="center"> ⚡ <i>Consistency beats talent when talent doesn’t stay consistent.</i> </p> 
